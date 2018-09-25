@@ -5,5 +5,8 @@ public static void main(string[] args) {
 	float i = 0;
 	i--;
 	System.out.println("Terminado" + i);
+		
+	i++;
+	System.out.println("Terminado" + i);
 	return;
 }
